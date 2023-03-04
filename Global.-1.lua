@@ -1,0 +1,1 @@
+--The global MUST NOT be empty
