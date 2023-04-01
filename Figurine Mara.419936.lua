@@ -18,6 +18,7 @@ end
 
 function myGetPlayer()
     for _, player in ipairs(Player.getPlayers()) do
-        player.changeColor("Red")
+        -- player.changeColor("Red")
+        player.showInfoDialog("Test")
     end
 end
