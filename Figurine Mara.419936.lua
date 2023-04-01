@@ -15,3 +15,9 @@ function theySeeMeRollin()
         end
     )
 end
+
+function myGetPlayer()
+    for _, player in ipairs(Player.getPlayers()) do
+        player.changeColor("Red")
+    end
+end

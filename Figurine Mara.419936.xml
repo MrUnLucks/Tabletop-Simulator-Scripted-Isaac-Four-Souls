@@ -1,1 +1,1 @@
-<button onClick="theySeeMeRollin" position="0 0 20" width="200" height="50">Fokki fokki</button>
+<button onClick="myGetPlayer" position="0 0 20" width="200" height="50">Fokki fokki</button>
