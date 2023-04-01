@@ -1,0 +1,18 @@
+- Start
+	Distribuisce carte e monete (già fatto da tavolo)
+	Distribuisce 3 personaggi e relativi eterni
+	Genera e comunica un giro casuale
+- Reward
+	Segnare per ogni carta il suo reward (faccio io)
+	Fare la funzione per i reward generali
+- Implementare un turno di combattimento
+	Leggere l'attaccante e i contatori (danno, vita, eccetera)
+	Modificare contatori
+	Flippare una nuova carta in caso la pila si svuoti
+- L'acquisto
+	Leggere il giocatore che acquista
+	Flippare una carta in caso l'acquisto sia di un item terreno
+- Anime 25 coin e 10 loot
+	Creare listener che analizzi coin, loot ed eventualmente Gappy
+	Dare l'anima quando rileva
+- Aggiungere carte personalizzate al deck (e se riusciamo i suoni quando uno cala za warudo)
